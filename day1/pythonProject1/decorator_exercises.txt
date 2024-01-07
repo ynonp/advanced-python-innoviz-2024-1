@@ -1,9 +1,12 @@
 Practice time until 12:20
 
-# Ex 1:
+https://github.com/ynonp/advanced-python-innoviz-2024-1
+day1/pythonProject1/decorator_exercises.txt
 
+# Ex 1:
 Create a decorator "max5" that calls the decorated
 function maximum 5 times.
+raise Exception("called too many times")
 In the 6th time (or later) function raises an Exception
 
 # Ex 2:
