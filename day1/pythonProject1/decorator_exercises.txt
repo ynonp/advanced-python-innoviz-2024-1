@@ -1,0 +1,13 @@
+Practice time until 12:20
+
+# Ex 1:
+
+Create a decorator "max5" that calls the decorated
+function maximum 5 times.
+In the 6th time (or later) function raises an Exception
+
+# Ex 2:
+Create a decorator "memoized" that calls the decorated
+function and saves the result.
+When the function is called again with the same input,
+don't re-calculate, but return the saved result
