@@ -1,0 +1,11 @@
+Create a number guessing game that you can test.
+In the game the computer randomizes a number and you need to guess it.
+Demo game flow:
+
+Computer says: guess the number
+I say: 50
+Computer says: too low
+I say: 80
+Computer says: too high
+I say: 74
+Computer says: Bravo!
