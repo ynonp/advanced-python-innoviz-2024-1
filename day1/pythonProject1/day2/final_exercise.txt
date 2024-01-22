@@ -1,5 +1,5 @@
 Create a number guessing game that you can test.
-In the game the computer randomizes a number and you need to guess it.
+In the game the computer randomizes a number, and you need to guess it.
 Demo game flow:
 
 Computer says: guess the number
