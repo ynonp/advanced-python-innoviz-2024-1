@@ -1,4 +1,5 @@
 import random
+import numpy as np
 
 class NumberGuessingGame:
     def __init__(self, rng, input, print):
